@@ -2,9 +2,9 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('https://10.20.0.113/SAC/File Server/Font/SAP-icons.woff2') format('woff2'),
-    url('https://10.20.0.113/SAC/File Server/Font/SAP-icons.woff') format('woff'),
-    url('https://10.20.0.113/SAC/File Server/Font/SAP-icons.ttf') format('truetype');
+    url('https://nhoccamelot.github.io/SAP-icons.woff2') format('woff2'),
+    url('https://nhoccamelot.github.io/Font/SAP-icons.woff') format('woff'),
+    url('https://nhoccamelot.github.io/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
